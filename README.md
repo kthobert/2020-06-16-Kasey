@@ -19,3 +19,6 @@
 
 - `git push <where> <what>`: pushed to master
 - `git pull <where> <what>`: takes remote master branch and brings it to local master branch
+
+## Conflicts
+- chance at the same place or in differenc places
