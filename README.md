@@ -13,3 +13,8 @@
 - `git commit -m "type 1 line of commit message here"`: commits without opening nano to write commit message
 - `git checkout <hash> <file>: referts back to the file you are on
 	-`git checkout master`: goes back to current state of work
+
+## Remotes
+
+
+- `git push <where> <what>`: pushed to master
