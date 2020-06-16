@@ -1,4 +1,4 @@
-# 2020-06-16 Git
+## 2020-06-16 SWC Git workshop for UD
 
 ##Local 
 - `git init`: create a git respoitrory in the current directory
